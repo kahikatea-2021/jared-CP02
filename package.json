@@ -1,0 +1,23 @@
+{
+  "name": "jared-cp02",
+  "version": "1.0.0",
+  "description": "Relates to assessment module CP02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahikatea-2021/jared-CP02.git"
+  },
+  "author": "Jared Pinfold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kahikatea-2021/jared-CP02/issues"
+  },
+  "homepage": "https://github.com/kahikatea-2021/jared-CP02#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  }
+}
